@@ -1,4 +1,5 @@
 #include <stdio.h>
+//funcion
 int main() {
  printf("Hola Mundo \r\n"); //mensaje con salto de linea
  printf("Numero %d \r\n",10+2+3);//Especificador de numero
