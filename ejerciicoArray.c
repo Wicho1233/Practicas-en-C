@@ -15,7 +15,7 @@ int main(){
             cont += grades[i][j];
         };
         cont /= 3.0;
-      printf("The average marks obtained in subject %d is: %.2f\n", i, cont);
+      printf("The average marks obtained in subject %d is: %.2f\n" cont);
     };
     return 0;
 }
